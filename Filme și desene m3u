@@ -1,6 +1,4 @@
 
 #EXTM3U
 #EXTINF:0,Channel 1
-https://content-videovard-delivery-s10.vidvard.stream/hls2/01/00014/nrffw6umff68_n/index-v1-a1.m3u8?t=o-_bofyXIEBHiUhuCW2g9k6Vm-jh2_ciMuyTfc9sSp0&s=1652831350&e=18000&f=2528062&srv=127.0.0.1&asn=13285
-#EXTINF:0,Channel 2
-https://content-videovard-delivery-s10.vidvard.stream/hls2/01/00014/nrffw6umff68_n/master.m3u8?t=o-_bofyXIEBHiUhuCW2g9k6Vm-jh2_ciMuyTfc9sSp0&s=1652831350&e=18000&f=2528062&srv=127.0.0.1&asn=13285
+https://f5a39431e6844fd.tloadcdn.com/streaming/KYT3mAQ2Pip14IecY-CXXw/1654001153/ekkyxbtayae6/zxdmc1ow0vxm/video.mp4
